@@ -1,0 +1,6 @@
+student_id,date,subject,max_marks,marks_obtained,pct_score,attempt_number
+S001,2025-08-01,Math,100,95,95,1
+S001,2025-08-15,Science,100,85,85,1
+S002,2025-08-01,Math,100,40,40,1
+S002,2025-08-15,Science,100,45,45,2
+S003,2025-08-01,Math,100,30,30,1

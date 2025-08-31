@@ -1,0 +1,25 @@
+attendance:
+  green: 90
+  amber: 85
+  red: 70
+  lookback_weeks: 4
+
+test_score:
+  green: 80
+  amber: 50
+  red: 35
+  lookback_tests: 4
+  decline_threshold_pct: 10
+
+attempts:
+  red_if_attempts_ge: 3
+
+fees:
+  amber_days_overdue: 15
+  red_days_overdue: 30
+
+weights:
+  attendance: 0.35
+  test_score: 0.35
+  attempts: 0.15
+  fees: 0.15
